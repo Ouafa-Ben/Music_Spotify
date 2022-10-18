@@ -1,0 +1,1001 @@
+TRACK_ID, album_id,track_name, release_date,LENGTH
+1,B1,Desconstrução Ao Vivo,2019-09-20,04:44.7
+2,B1,Fuzuê Ao Vivo,2019-09-20,04:20.2
+3,B1,Mil Razões Ao Vivo,2019-09-20,04:07.9
+4,B1,Hoje Lembrei Do Teu Amor Ao Vivo,2019-09-20,04:30.9
+5,B1,Deitada Nessa Cama Ao Vivo,2019-09-20,04:02.7
+6,B1,Nessa Paz Eu Vou Ao Vivo,2019-09-20,03:45.4
+7,B1,Coisa Linda Ao Vivo,2019-09-20,03:12.9
+8,B1,Lôra Ao Vivo,2019-09-20,04:22.2
+9,B1,Tangerina Ao Vivo,2019-09-20,04:41.3
+10,B1,Tua Caramassa Ao Vivo,2019-09-20,03:41.5
+11,B1,Do Que Você Tem Medo Ao Vivo,2019-09-20,03:00.9
+12,B1,A Vida Nunca Cansa Ao Vivo,2019-09-20,05:00.9
+13,B1,Laços Ao Vivo,2019-09-20,03:44.7
+14,B1,Bellyache Ao Vivo,2019-09-20,04:19.4
+15,B1,Um Dia Após O Outro Ao Vivo,2019-09-20,04:10.2
+16,B1,Me Tira Pra Dançar Ao Vivo,2019-09-20,04:13.9
+17,B1,Faz Ao Vivo,2019-09-20,04:26.4
+18,B1,Cataflor Ao Vivo,2019-09-20,04:49.8
+19,B1,Amei Te Ver Ao Vivo,2019-09-20,04:09.5
+20,B1,Bilhetes Ao Vivo,2019-09-20,05:45.5
+21,B2,Desconstrução,2019-05-05,04:43.8
+22,B2,Hoje Lembrei Do Teu Amor,2019-05-05,04:03.6
+23,B2,Deitada Nessa Cama,2019-05-05,04:06.5
+24,B2,Fuzuê,2019-05-05,04:00.9
+25,B2,Faz,2019-05-05,04:03.5
+26,B2,Tangerina,2019-05-05,03:51.9
+27,B2,Laços,2019-05-05,03:24.9
+28,B2,Nessa Paz Eu Vou,2019-05-05,03:32.5
+29,B2,Tua Caramassa,2019-05-05,03:43.2
+30,B2,Me Tira Pra Dançar,2019-05-05,03:43.7
+31,B2,A Vida Nunca Cansa,2019-05-05,04:45.3
+32,B2,Bilhetes,2019-05-05,04:51.3
+33,B2,Sei,2019-05-05,03:47.5
+34,B3,Sol Que Faltava Ao Vivo,2016-09-16,03:55.7
+35,B3,Coisa Linda Ao Vivo,2016-09-16,03:10.4
+36,B3,Mil Razões Ao Vivo,2016-09-16,03:27.7
+37,B3,Eu Errei Ao Vivo,2016-09-16,04:10.0
+38,B3,De Todas as Coisas Ao Vivo,2016-09-16,02:42.6
+39,B3,Mulher Ao Vivo,2016-09-16,03:18.8
+40,B3,Liberdade ou Solidão Ao Vivo,2016-09-16,03:38.2
+41,B3,Um Dia Após o Outro Ao Vivo,2016-09-16,03:18.3
+42,B3,Chega Pra Cá Ao Vivo,2016-09-16,03:02.5
+43,B3,Dia Especial Ao Vivo,2016-09-16,04:18.7
+44,B3,Sorte Ao Vivo,2016-09-16,04:35.7
+45,B3,Alexandria Ao Vivo,2016-09-16,03:42.2
+46,B3,Amei Te Ver Ao Vivo,2016-09-16,04:11.6
+47,B3,Cataflor Ao Vivo,2016-09-16,05:41.9
+48,B4,Alexandria,2015-07-10,03:42.5
+49,B4,Amei Te Ver,2015-07-10,04:17.8
+50,B4,Mil Razões,2015-07-10,04:04.7
+51,B4,Eu Errei,2015-07-10,03:41.8
+52,B4,De Todas As Coisas,2015-07-10,02:46.9
+53,B4,Coisa Linda,2015-07-10,02:58.7
+54,B4,Bossa,2015-07-10,03:41.9
+55,B4,Cataflor,2015-07-10,03:47.4
+56,B4,Liberdade Ou Solidão,2015-07-10,03:30.3
+57,B4,Sol Que Faltava,2015-07-10,03:43.7
+58,B4,Till Im Old and Gray Faixa Bônus,2015-07-10,04:19.0
+59,B5,Nothing but a Song,2015-05-18,03:15.5
+60,B5,Scared,2015-05-18,03:35.8
+61,B5,Blame,2015-05-18,03:53.2
+62,B5,My Girl,2015-05-18,03:29.6
+63,B5,Gave Me a Name,2015-05-18,05:16.9
+64,B5,Fine,2015-05-18,03:08.5
+65,B5,Story of a Man,2015-05-18,03:57.5
+66,B5,Its a Fluke,2015-05-18,03:24.1
+67,B5,Proibida Pra Mim,2015-05-18,03:43.3
+68,B5,What a Wonderful World,2015-05-18,04:01.7
+69,B6,Skin Deep,2013-07-29,03:34.4
+70,B6,What Would You Say,2013-07-29,03:31.5
+71,B6,Life of My Love,2013-07-29,02:54.4
+72,B6,Yes and Nothing Less,2013-07-29,03:40.8
+73,B6,Its a Fluke,2013-07-29,03:24.1
+74,B6,Shelford Road,2013-07-29,03:53.3
+75,B6,Zeski Instrumental,2013-07-29,02:52.2
+76,B6,Um Dia Após O Outro,2013-07-29,03:15.2
+77,B6,Forasteiro,2013-07-29,02:49.1
+78,B6,Música Inédita,2013-07-29,03:33.9
+79,B6,Tempo Perdido,2013-07-29,04:48.7
+80,B7,Story Of A Man,2011-10-10,03:57.5
+81,B7,Ducks In A Pond,2011-10-10,05:13.0
+82,B7,Just So You Know,2011-10-10,04:04.9
+83,B7,What Weighs Me Down,2011-10-10,05:46.4
+84,B7,Umbilical,2011-10-10,04:12.9
+85,B7,Patron,2011-10-10,04:11.3
+86,B7,Gave Me A Name,2011-10-10,05:16.9
+87,B7,Even Song To A Friend,2011-10-10,03:14.4
+88,B7,Who Needs Answers,2011-10-10,03:54.6
+89,B7,If Everything Is Worth It,2011-10-10,03:38.2
+90,B7,Unordinary Gold,2011-10-10,03:44.5
+91,B8,No One There,2009-08-26,03:56.4
+92,B8,Blame,2009-08-26,03:52.6
+93,B8,Fine,2009-08-26,03:08.7
+94,B8,Nothing But A Song,2009-08-26,03:15.1
+95,B8,Scared,2009-08-26,03:34.2
+96,B8,Ticket To Ride,2009-08-26,03:43.5
+97,B8,Theres More To Life,2009-08-26,04:04.8
+98,B8,Its Not Time,2009-08-26,04:28.3
+99,B8,My Girl,2009-08-26,03:29.3
+100,B8,When All Hope Is Gone,2009-08-26,05:19.8
+101,B8,Nothing But A Song Acoustic,2009-08-26,03:01.3
+102,B9,No One There,2008-04-20,03:55.7
+103,B9,Blame,2008-04-20,03:53.2
+104,B9,Fine,2008-04-20,03:08.5
+105,B9,Nothing But a Song,2008-04-20,03:15.5
+106,B9,Scared,2008-04-20,03:35.8
+107,B9,Ticket to Ride,2008-04-20,03:43.9
+108,B9,Theres More to Life,2008-04-20,04:05.2
+109,B9,Its Not Time,2008-04-20,04:29.6
+110,B9,My Girl,2008-04-20,03:29.6
+111,B9,When All Hope Is Gone,2008-04-20,05:19.7
+112,B9,Nothing But a Song Bonus Acoustic Version,2008-04-20,03:02.9
+113,B10,Fico Só Ao Vivo,2020-03-20,03:33.3
+114,B10,Poemas Que Colori Ao Vivo,2020-03-20,03:33.6
+115,B10,Que Seja Pra Ficar Ao Vivo,2020-03-20,03:01.9
+116,B10,Sons de Amor Ao Vivo,2020-03-20,03:11.5
+117,B10,Certeza Ao Vivo,2020-03-20,03:11.8
+118,B10,Constelação Ao Vivo,2020-03-20,03:00.0
+119,B10,Planeta Borboleta Ao Vivo,2020-03-20,04:01.5
+120,B10,Deixei Ao Vivo,2020-03-20,03:28.8
+121,B10,Me Sinto Eu Ao Vivo,2020-03-20,03:13.7
+122,B10,Tudo Fora de Lugar Ao Vivo,2020-03-20,03:09.1
+123,B11,Planeta Borboleta Sessions,2020-02-10,03:37.5
+124,B11,Trovador Sonhador Sessions,2020-02-10,03:51.5
+125,B11,Anunciação Sessions,2020-02-10,02:45.4
+126,B11,Constelação Sessions,2020-02-10,03:22.6
+127,B11,Sons de Amor Sessions,2020-02-10,03:06.4
+128,B11,Aldeia Sessions,2020-02-10,03:57.4
+129,B11,Me Sinto Eu Sessions,2020-02-10,03:09.6
+130,B11,Fico Só Sessions,2020-02-10,03:45.6
+131,B12,Fico Só,2018-07-20,03:30.6
+132,B12,Poemas Que Colori,2018-07-20,03:30.3
+133,B12,Que Seja Pra Ficar,2018-07-20,03:42.9
+134,B12,Sons de Amor,2018-07-20,03:04.6
+135,B12,Certeza,2018-07-20,03:00.4
+136,B12,Constelação,2018-07-20,03:00.4
+137,B12,Planeta Borboleta,2018-07-20,04:12.6
+138,B12,Deixei,2018-07-20,03:16.1
+139,B12,Me Sinto Eu,2018-07-20,03:12.4
+140,B12,Tudo Fora De Lugar,2018-07-20,03:04.9
+141,B13,Canção De Hotel,2018-12-07,02:27.4
+142,B13,Porque Eu Te Amo,2018-12-07,02:58.2
+143,B13,Dói Sem Tanto,2018-12-07,03:51.8
+144,B13,Cecília,2018-12-07,02:44.9
+145,B13,Calendário,2018-12-07,01:33.2
+146,B13,Ai Amor,2018-12-07,03:12.2
+147,B13,Outrória,2018-12-07,02:36.5
+148,B14,Brasil Citação São Coisas Nossas Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:26.8
+149,B14,Blues Da Piedade Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:01.5
+150,B14,Obrigado Por Ter Se Mandado Ao Vivo No Rio De Janeiro 1998,2019-08-23,03:20.2
+151,B14,Por Que A Gente É Assim Ao Vivo No Rio De Janeiro 1998,2019-08-23,02:55.2
+152,B14,Todo O Amor Que Houver Nessa Vida Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:16.3
+153,B14,1º De Julho Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:53.1
+154,B14,Só As Mães São Felizes Ao Vivo No Rio De Janeiro 1998,2019-08-23,03:38.7
+155,B14,Vida Bandida Ao Vivo No Rio De Janeiro 1998,2019-08-23,02:53.8
+156,B14,Ponto Fraco Ao Vivo No Rio De Janeiro 1998,2019-08-23,02:31.7
+157,B14,Preciso Dizer Que Te Amo Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:44.3
+158,B14,Nós Ao Vivo No Rio De Janeiro 1998,2019-08-23,02:56.3
+159,B14,Mis Penas Lloraba Yo Soy Gitano Ao Vivo No Rio De Janeiro 1998 Medley,2019-08-23,03:53.6
+160,B14,Billy Negão Ao Vivo No Rio De Janeiro 1998,2019-08-23,03:25.1
+161,B14,Farrapo Humano Ao Vivo No Rio De Janeiro 1998,2019-08-23,03:40.9
+162,B14,Faça O Que Quiser Fazer Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:17.9
+163,B14,A Orelha De Eurídice Ao Vivo No Rio De Janeiro 1998,2019-08-23,01:46.5
+164,B14,Menina Mimada Trecho de QuintaFeira extraído do poema Querido Diário Tópicos Para Uma Semana Utópica Ao Vivo No Rio De Janeiro 1998 Medley,2019-08-23,02:36.2
+165,B14,Mal Nenhum Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:56.4
+166,B14,Bete Balanço Ao Vivo No Rio De Janeiro 1998,2019-08-23,04:31.1
+167,B14,Amor Destrambelhado Ao Vivo No Rio De Janeiro 1998,2019-08-23,02:38.8
+168,B14,Todas As Mulheres Do Mundo Citação BemMeQuer Ao Vivo No Rio De Janeiro 1998,2019-08-23,03:21.7
+169,B14,Geração CocaCola Ao Vivo No Rio De Janeiro 1998,2019-08-23,02:09.5
+170,B14,Pro Dia Nascer Feliz Incidentais Satisfaction I Cant Get Lets Spend The Night Together Ao Vivo No Rio De Janeiro 1998,2019-08-23,05:26.7
+171,B14,Eu Queria Ser Cássia Eller Ao Vivo No Rio De Janeiro 1998,2019-08-23,03:22.5
+172, B15,Malandragem Ao Vivo,2015-10-30,03:51.4
+173, B15,Gatas Extraordinárias,2015-10-30,03:31.3
+174, B15,ECT,2015-10-30,03:47.1
+175, B15,O Segundo Sol,2015-10-30,04:11.9
+176, B15,Nós Ao Vivo No Rio De Janeiro 1998,2015-10-30,02:45.4
+177, B15,Palavras Ao Vento,2015-10-30,03:32.0
+178, B15,No Recreio,2015-10-30,03:44.7
+179, B15,Por Enquanto,2015-10-30,04:04.2
+180, B15,Eu Sou Neguinha Live,2015-10-30,03:47.5
+181, B15,Admirável Gado Novo,2015-10-30,04:33.9
+182, B15,Mr Scarecrow,2015-10-30,03:04.8
+183, B15,Metro Linha 743,2015-10-30,02:53.8
+184, B15,Mis Penas Lloraba Yo Soy Gitano Ao Vivo No Rio De Janeiro 1998 Medley,2015-10-30,03:08.9
+185, B15,Meu Mundo Ficaria Completo Com Você,2015-10-30,04:10.0
+186, B15,Eleanor Rigby,2015-10-30,03:07.5
+187, B15,Bobagem,2015-10-30,02:25.5
+188, B15,Woman Is The Nigger Of The World Ao Vivo,2015-10-30,04:54.9
+189, B15,Blues Da Piedade,2015-10-30,04:16.3
+190, B15,Caso Você Queira Saber,2015-10-30,04:03.5
+191, B15,Juventude Transviada Ao Vivo,2015-10-30,04:38.4
+192,B16,Segredo,2015-07-24,03:59.0
+193,B16,For No One,2015-07-24,02:53.5
+194,B16,Happiness Is a Warm Gun,2015-07-24,03:08.7
+195,B16,Flor do Sol,2015-07-24,04:05.1
+196,B16,Ne me quitte pas,2015-07-24,03:36.9
+197,B16,Airecillos,2015-07-24,02:29.1
+198,B16,Ausência,2015-07-24,02:08.5
+199,B16,Sua Estupidez,2015-07-24,04:50.7
+200,B16,Good Morning Heartache,2015-07-24,02:23.8
+201,B16,Golden Slumbers,2015-07-24,02:01.5
+202,B17,Gatas Extraordinárias Show Luz Do Solo,2012-01-01,03:27.0
+203,B17,Cherokee Louise Show Luz Do Solo,2012-01-01,03:51.2
+204,B17,Maluca Show Luz Do Solo,2012-01-01,02:36.7
+205,B17,All Star Show Luz Do Solo,2012-01-01,03:37.7
+206,B17,Relicário Show Luz Do Solo,2012-01-01,03:53.9
+207,B17,Vila Do Sossego Show Luz Do Solo,2012-01-01,04:16.8
+208,B17,Queremos Saber Show Luz Do Solo,2012-01-01,03:10.1
+209,B17,Espaço Show Luz Do Solo,2012-01-01,02:55.9
+210,B17,Eu Sei Show Luz Do Solo,2012-01-01,02:38.0
+211,B17,Luz Dos Olhos Show Luz Do Solo,2012-01-01,04:30.1
+212,B17,Do Lado Do Avesso Instrumental Show Luz Do Solo,2012-01-01,02:08.3
+213,B17,1º De Julho Show Luz Do Solo,2012-01-01,05:13.1
+214,B17,Youve Changed Show Luz Do Solo,2012-01-01,05:15.6
+215,B17,I Aint Got Nothing But The Blues Show Luz Do Solo,2012-01-01,06:27.8
+216,B17,Diamante Verdadeiro Show Luz Do Solo,2012-01-01,02:22.3
+217,B17,Eleanor Rigby Show Luz Do Solo,2012-01-01,03:35.5
+218,B18,Gatas Extraordinárias Show Luz Do Solo,2012-01-01,03:27.0
+219,B18,Cherokee Louise Show Luz Do Solo,2012-01-01,03:51.2
+220,B18,Maluca Show Luz Do Solo,2012-01-01,02:36.7
+221,B18,All Star Show Luz Do Solo,2012-01-01,03:37.7
+222,B18,Relicário Show Luz Do Solo,2012-01-01,03:53.9
+223,B18,Vila Do Sossego Show Luz Do Solo,2012-01-01,04:16.8
+224,B18,Queremos Saber Show Luz Do Solo,2012-01-01,03:10.2
+225,B18,Espaço Show Luz Do Solo,2012-01-01,02:55.9
+226,B18,Eu Sei Show Luz Do Solo,2012-01-01,02:38.0
+227,B18,Luz Dos Olhos Show Luz Do Solo,2012-01-01,04:30.1
+228,B18,Do Lado Do Avesso Instrumental Show Luz Do Solo,2012-01-01,02:08.3
+229,B18,1º De Julho Show Luz Do Solo,2012-01-01,05:13.1
+230,B18,Youve Changed Show Luz Do Solo,2012-01-01,05:15.6
+231,B18,I Aint Got Nothing But The Blues Show Luz Do Solo,2012-01-01,06:27.8
+232,B18,Diamante Verdadeiro Show Luz Do Solo,2012-01-01,02:22.4
+233,B18,Eleanor Rigby Show Luz Do Solo,2012-01-01,03:35.5
+234,B18,Flor Do Sol Bonus Track,2012-01-01,02:46.9
+235,B19,All Star,2012-01-01,03:19.0
+236,B19,Meu Mundo Ficaria Completo Com Você,2012-01-01,04:09.3
+237,B19,O Segundo Sol,2012-01-01,04:11.4
+238,B19,Luz Dos Olhos Ao Vivo,2012-01-01,04:09.9
+239,B19,Relicário Acústico Ao Vivo,2012-01-01,03:47.6
+240,B19,No Recreio,2012-01-01,03:42.8
+241,B19,Baby Love,2012-01-01,03:31.4
+242,B19,As Coisas Tão Mais Lindas,2012-01-01,03:37.9
+243,B19,ECT,2012-01-01,03:41.2
+244,B19,Infernal,2012-01-01,03:16.4
+245,B19,Um Tiro No Coração,2012-01-01,04:00.3
+246,B19,Nenhum Roberto,2012-01-01,03:20.8
+247,B19,As Coisas Tão Mais Lindas Acústico Ao Vivo,2012-01-01,02:59.5
+248,B20,1º de Julho Ao Vivo,2011-12-06,05:18.5
+249,B20,Partido Alto Ao Vivo,2011-12-06,03:28.4
+250,B20,Pra Galera Ao Vivo,2011-12-06,00:41.7
+251,B20,ECT Ao Vivo,2011-12-06,03:27.2
+252,B20,Obrigado Por Ter Se Mandado Ao Vivo,2011-12-06,03:05.3
+253,B20,O Segundo Sol Ao Vivo,2011-12-06,04:37.9
+254,B20,Faça o Que Quiser Fazer feat Fabão Ao Vivo,2011-12-06,04:14.2
+255,B20,Infernal Ao Vivo,2011-12-06,03:07.7
+256,B20,Malandragem Ao Vivo,2011-12-06,04:02.9
+257,B20,Coroné Antonio Bento Kø feat Márcio Mello O Vivo,2011-12-06,04:08.5
+258,B20,Come Together Corpo de Lama feat Nação Zumbi O Vivo,2011-12-06,04:23.7
+259,B20,Quando a Maré Encher feat Nação Zumbi Ao Vivo,2011-12-06,03:52.4
+260,B20,Smells Like Teen Spirit Ao Vivo,2011-12-06,04:57.1
+261,B21,Malandragem Ao Vivo,2007-01-08,03:59.3
+262,B21,All Star,2007-01-08,03:19.2
+263,B21,ECT,2007-01-08,03:45.9
+264,B21,Gatas Extraordinárias,2007-01-08,03:31.4
+265,B21,Nós Ao Vivo,2007-01-08,03:13.2
+266,B21,1º De Julho,2007-01-08,04:31.6
+267,B21,Relicário Ao Vivo,2007-01-08,03:51.8
+268,B21,Admirável Gado Novo,2007-01-08,04:34.0
+269,B21,Geração CocaCola Ao Vivo,2007-01-08,02:12.7
+270,B21,Palavras Ao Vento,2007-01-08,03:32.7
+271,B21,No Recreio,2007-01-08,03:44.0
+272,B21,Lanterna Dos Afogados,2007-01-08,03:23.3
+273,B21,Todo Amor Que Houver Nessa Vida Ao Vivo,2007-01-08,03:48.5
+274,B21,Pro Dia Nascer Feliz,2007-01-08,03:46.9
+275,B21,Coroné Antonio Bento,2007-01-08,03:20.9
+276,B21,O Segundo Sol,2007-01-08,04:12.4
+277,B21,Luz Del Fuego Ao Vivo,2007-01-08,03:25.5
+278,B21,Preciso Dizer Que Te Amo,2007-01-08,03:57.8
+279,B21,Meu Mundo Ficaria Completo Com Você,2007-01-08,04:10.0
+280,B21,Vida Bandida Ao Vivo,2007-01-08,03:11.5
+281,B21,Luz Dos Olhos Ao Vivo,2007-01-08,04:08.4
+282,B21,Na Cadência Do Samba,2007-01-08,03:15.7
+283,B21,Não Deixe O Samba Morrer,2007-01-08,04:27.0
+284,B21,Vila Do Sossego,2007-01-08,03:34.4
+285,B21,Juventude Transviada Ao Vivo,2007-01-08,04:38.9
+286,B21,Metro Linha 743,2007-01-08,02:53.6
+287,B21,A Cuca Te Pega,2007-01-08,03:21.9
+288,B22,Get Back,2002-04-01,02:54.3
+289,B22,No Recreio,2002-04-01,03:44.6
+290,B22,All Star,2002-04-01,03:20.5
+291,B22,Eu Sou Neguinha Citação Rap Incidental,2002-04-01,04:26.3
+292,B22,Nada Vai Mudar Isso,2002-04-01,03:44.9
+293,B22,Julia,2002-04-01,02:51.6
+294,B22,Nenhum Roberto,2002-04-01,03:22.9
+295,B22,Little Wing,2002-04-01,03:39.2
+296,B22,Vila Do Sossego,2002-04-01,03:35.7
+297,B22,Só Se For À Dois,2002-04-01,03:43.5
+298,B23,Get Back,2002-01-01,02:53.9
+299,B23,No Recreio,2002-01-01,03:43.2
+300,B23,All Star,2002-01-01,03:19.2
+301,B23,Eu Sou Neguinha Citação Rap Incidental Medley,2002-01-01,04:26.5
+302,B23,Nada Vai Mudar Isso,2002-01-01,03:44.7
+303,B23,Fiz O Que Pude Citação Chororô,2002-01-01,03:28.0
+304,B23,Julia,2002-01-01,02:49.6
+305,B23,Nenhum Roberto,2002-01-01,03:22.8
+306,B23,Little Wing,2002-01-01,03:39.0
+307,B23,Vila Do Sossego,2002-01-01,03:34.2
+308,B23,Só Se For À Dois,2002-01-01,03:43.4
+309,B24,Non Je Ne Regrette Rien Ao Vivo,2001-01-15,02:52.3
+310,B24,Malandragem Ao Vivo,2001-01-15,04:00.8
+311,B24,ECT Ao Vivo,2001-01-15,03:30.6
+312,B24,Vá Morar Com O Diabo Ao Vivo,2001-01-15,02:58.4
+313,B24,Partido Alto Ao Vivo,2001-01-15,03:18.6
+314,B24,1º De Julho Ao Vivo,2001-01-15,04:52.3
+315,B24,Luz Dos Olhos Ao Vivo,2001-01-15,04:11.4
+316,B24,Todo Amor Que Houver Nessa Vida Ao Vivo,2001-01-15,03:41.5
+317,B24,Queremos Saber Ao Vivo,2001-01-15,03:12.7
+318,B24,Por Enquanto Ao Vivo,2001-01-15,02:23.8
+319,B24,Relicário Ao Vivo,2001-01-15,04:06.5
+320,B24,O Segundo Sol Ao Vivo,2001-01-15,04:17.1
+321,B24,Nós Ao Vivo,2001-01-15,02:58.8
+322,B24,Sgt Peppers Lonely Hearts Club Band Ao Vivo,2001-01-15,02:57.7
+323,B24,De Esquina Ao Vivo,2001-01-15,04:32.3
+324,B24,Quando A Mare Encher Ao Vivo,2001-01-15,03:30.8
+325,B24,Top Top Ao Vivo,2001-01-15,02:58.8
+326,B25,Smells Like Teen Spirit Ao Vivo,2000-04-03,05:15.2
+327,B25,Vida Bandida Ao Vivo,2000-04-03,03:11.5
+328,B25,Pro Dia Nascer Feliz,2000-04-03,04:10.5
+329,B25,Hear My Train A Coming Gettin My Heart Back Together Again,2000-04-03,03:49.5
+330,B25,Geração CocaCola Ao Vivo,2000-04-03,02:12.2
+331,B25,Não Sei O Que Eu Quero Da Vida,2000-04-03,02:31.3
+332,B25,Bete Balanço,2000-04-03,04:08.8
+333,B25,Woman Is The Nigger Of The World Ao Vivo,2000-04-03,04:58.6
+334,B25,Um Branco Um Xis Um Zero,2000-04-03,03:34.4
+335,B25,Brasil,2000-04-03,04:11.4
+336,B25,If Six Was Nine,2000-04-03,07:49.2
+337,B25,Malandragem,2000-04-03,04:06.7
+338,B26,O Segundo Sol,1999-04-12,04:13.2
+339,B26,Mapa Do Meu Nada,1999-04-12,04:35.2
+340,B26,Gatas Extraordinárias,1999-04-12,03:35.5
+341,B26,Um Branco Um Xis Um Zero,1999-04-12,03:34.1
+342,B26,Meu Mundo Ficaria Completo Com Você,1999-04-12,04:09.1
+343,B26,Palavras Ao Vento,1999-04-12,03:33.6
+344,B26,Aprendiz De Feiticeiro,1999-04-12,03:03.5
+345,B26,Pedra Gigante,1999-04-12,03:19.2
+346,B26,Infernal,1999-04-12,03:17.7
+347,B26,Maluca,1999-04-12,02:55.9
+348,B26,As Coisas Tão Mais Lindas,1999-04-12,03:39.2
+349,B26,Esse Filme Eu Já Vi,1999-04-12,04:00.4
+350,B27,Brasil Live,1998-01-19,04:35.8
+351,B27,Amor Destrambelhado Ao Vivo No Rio De Janeiro 1998,1998-01-19,02:38.0
+352,B27,Obrigado Por Ter Se Mandado Live,1998-01-19,03:04.8
+353,B27,Vida Bandida Ao Vivo,1998-01-19,03:09.5
+354,B27,Billy Negão Live,1998-01-19,03:18.7
+355,B27,Farrapo Humano,1998-01-19,03:50.5
+356,B27,Nós Ao Vivo No Rio De Janeiro 1998,1998-01-19,02:45.4
+357,B27,Mis Penas Lloraba Yo Soy Gitano Ao Vivo No Rio De Janeiro 1998 Medley,1998-01-19,03:09.9
+358,B27,Todo Amor Que Houver Nessa Vida Ao Vivo,1998-01-19,04:01.5
+359,B27,Ponto Fraco Live,1998-01-19,02:35.9
+360,B27,Faça O Que Quiser Fazer Ao Vivo No Rio De Janeiro 1998,1998-01-19,04:17.1
+361,B27,Geração CocaCola Ao Vivo,1998-01-19,02:07.4
+362,B27,Todas As Mulheres Do Mundo Música Incidental Bem Me Quer Mal Me Quer,1998-01-19,03:24.3
+363,B27,Eu Queria Ser Cássia Eller,1998-01-19,03:36.9
+364,B28,Admirável Gado Novo,1998-01-01,04:35.7
+365,B28,Preciso Dizer Que Te Amo,1998-01-01,04:00.9
+366,B28,ECT,1998-01-01,03:49.5
+367,B28,Por Enquanto,1998-01-01,04:04.6
+368,B28,Try A Little Tenderness,1998-01-01,04:19.7
+369,B28,Todo O Amor Que Houver Nessa Vida,1998-01-01,03:48.7
+370,B28,Musica Urbana 2,1998-01-01,03:14.8
+371,B28,Nós Ao Vivo,1998-01-01,03:12.7
+372,B28,1º De Julho,1998-01-01,04:31.2
+373,B28,Eu Sou Neguinha Live,1998-01-01,03:48.7
+374,B28,Rubens,1998-01-01,03:27.5
+375,B28,Lanterna Dos Afogados,1998-01-01,03:25.6
+376,B28,Na Cadência Do Samba,1998-01-01,03:15.3
+377,B28,Malandragem,1998-01-01,04:09.4
+378,B29,Brasil,1997-01-20,04:11.9
+379,B29,Blues Da Piedade,1997-01-20,04:15.5
+380,B29,Obrigado Por Ter Se Mandado,1997-01-20,02:49.8
+381,B29,Menina Mimada,1997-01-20,02:14.0
+382,B29,Todo Amor Que Houver Nessa Vida,1997-01-20,03:48.0
+383,B29,Billy Negão,1997-01-20,03:08.4
+384,B29,Bete Balanço,1997-01-20,04:08.6
+385,B29,A Orelha De Eurídice,1997-01-20,01:51.9
+386,B29,Só As Mães São Felizes,1997-01-20,03:42.5
+387,B29,Ponto Fraco,1997-01-20,02:14.4
+388,B29,Por Que A Gente É Assim,1997-01-20,03:07.8
+389,B29,Preciso Dizer Que Te Amo,1997-01-20,04:01.3
+390,B29,Mal Nenhum,1997-01-20,04:35.4
+391,B29,Pro Dia Nascer Feliz,1997-01-20,04:10.9
+392,B30,ECT,1997-01-01,03:47.5
+393,B30,Malandragem,1997-01-01,04:09.3
+394,B30,Por Enquanto,1997-01-01,04:03.6
+395,B30,1º De Julho,1997-01-01,04:30.3
+396,B30,Hear My Train A Coming Gettin My Heart Back Together Again,1997-01-01,03:49.5
+397,B30,Musica Urbana 2,1997-01-01,03:14.5
+398,B30,Rubens,1997-01-01,03:26.1
+399,B30,Eu Sou Neguinha Live,1997-01-01,03:48.4
+400,B30,Eleanor Rigby,1997-01-01,03:06.5
+401,B30,Na Cadência Do Samba,1997-01-01,03:14.7
+402,B30,Nós Ao Vivo,1997-01-01,03:12.2
+403,B30,Lanterna Dos Afogados,1997-01-01,03:25.2
+404,B30,Metro Linha 743,1997-01-01,02:52.9
+405,B30,Pro Dia Nascer Feliz,1997-01-01,04:10.5
+406,B31,ECT Live,1996-04-08,03:34.5
+407,B31,Nenhum Roberto Live,1996-04-08,02:36.3
+408,B31,Eu Sou Neguinha Live,1996-04-08,03:48.8
+409,B31,Nós Ao Vivo,1996-04-08,03:06.9
+410,B31,1º De Julho Live,1996-04-08,05:27.9
+411,B31,Na Cadência Do Samba Live,1996-04-08,03:32.4
+412,B31,Por Enquanto Música Incidental Ive Got A Feeling Live,1996-04-08,04:26.7
+413,B31,Try A Little Tenderness Live,1996-04-08,04:27.7
+414,B31,Malandragem Live,1996-04-08,04:08.9
+415,B31,Não Amo Ninguém Live,1996-04-08,04:20.9
+416,B31,Musica Urbana 2 Live,1996-04-08,03:58.3
+417,B31,Socorro Live,1996-04-08,04:14.2
+418,B31,Metrô Linha 743 Live,1996-04-08,04:08.4
+419,B31,Coroné Antonio Bento Live,1996-04-08,06:10.3
+420,B32,Partners,1994-01-17,04:26.0
+421,B32,Malandragem,1994-01-17,04:10.4
+422,B32,ECT,1994-01-17,03:48.9
+423,B32,Try A Little Tenderness,1994-01-17,04:18.9
+424,B32,1º De Julho,1994-01-17,04:30.9
+425,B32,Na Cadência Do Samba,1994-01-17,03:15.6
+426,B32,Lanterna Dos Afogados,1994-01-17,03:25.7
+427,B32,Coroné Antonio Bento,1994-01-17,03:19.9
+428,B32,Metro Linha 743,1994-01-17,02:53.4
+429,B32,Socorro,1994-01-17,04:19.3
+430,B32,Blues Do Iniciante,1994-01-17,04:02.9
+431,B32,Musica Urbana 2,1994-01-17,03:14.7
+432,B32,Petala,1994-01-17,03:08.8
+433,B33,Caso Você Queira Saber,1992-01-06,04:03.7
+434,B33,Sonhei Que Viajava Com Você,1992-01-06,03:52.2
+435,B33,Sensações,1992-01-06,03:20.6
+436,B33,Teu Bem,1992-01-06,02:34.4
+437,B33,Amnésia,1992-01-06,02:23.4
+438,B33,O Marginal,1992-01-06,04:32.8
+439,B33,Eles,1992-01-06,04:06.5
+440,B33,Aquele Grandão,1992-01-06,02:10.3
+441,B33,Bobagem,1992-01-06,02:25.4
+442,B33,Comédia,1992-01-06,02:24.9
+443,B33,Hear My Train A Coming Gettin My Heart Back Together Again,1992-01-06,03:53.8
+444,B33,If Six Was Nine,1992-01-06,07:54.4
+445,B34,Já Deu Pra Sentir Tutu,1990-01-08,03:11.0
+446,B34,Rubens,1990-01-08,03:27.3
+447,B34,Barraco,1990-01-08,03:00.2
+448,B34,Que O Deus Venha,1990-01-08,03:19.6
+449,B34,Eleanor Rigby,1990-01-08,03:07.8
+450,B34,Otario,1990-01-08,03:58.3
+451,B34,Por Enquanto,1990-01-08,04:04.1
+452,B34,O Dedo De Deus,1990-01-08,02:55.5
+453,B34,Lullaby,1990-01-08,01:45.3
+454,B34,Não Sei O Que Eu Quero Da Vida,1990-01-08,02:32.2
+455,B34,Tutti Frutti,1990-01-08,03:07.2
+456,B35,Ao Redor do Precipício,2020-06-04,01:47.2
+457,B35,Te Amei Ali,2020-06-04,03:47.7
+458,B35,Amar um Pouco Mais,2020-06-04,03:50.7
+459,B35,Pergunta Urgente,2020-06-04,04:48.1
+460,B35,Cartas e Versos,2020-06-04,03:19.8
+461,B35,Batidão Mix,2020-06-04,00:40.9
+462,B35,E Você Diz,2020-06-04,03:30.7
+463,B35,Planetas Distantes,2020-06-04,04:05.7
+464,B35,Tudo Que Eu Consegui,2020-06-04,03:10.7
+465,B35,A Sua Dor É Minha,2020-06-04,03:47.7
+466,B35,Todo Mundo Sofre,2020-06-04,03:26.8
+467,B35,Por Mais Que Eu Saiba,2020-06-04,04:42.7
+468,B35,Parada de Estrada Vazia,2020-06-04,02:03.6
+469,B36,Amor pra recomeçar,2017-11-10,03:33.8
+470,B36,Segredos,2017-11-10,03:53.5
+471,B36,Quando o amor era medo,2017-11-10,03:43.4
+472,B36,Eu preciso te tirar do sério Sexy Mix,2017-11-10,03:34.3
+473,B36,Homem não chora,2017-11-10,03:58.6
+474,B36,Túnel do tempo,2017-11-10,03:45.3
+475,B36,Mais que perfeito,2017-11-10,04:25.6
+476,B36,Sobre nós dois e o resto do mundo,2017-11-10,03:21.3
+477,B36,Som e fúria,2017-11-10,03:37.2
+478,B36,Ela,2017-11-10,03:14.3
+479,B36,O início depois do fim,2017-11-10,03:21.3
+480,B36,Sol de domingo,2017-11-10,04:10.7
+481,B36,50 receitas,2017-11-10,03:38.8
+482,B36,Desculpas já não peço mais,2017-11-10,03:22.0
+483,B36,Você parece com todo mundo,2017-11-10,03:28.1
+484,B36,Paz nunca mais,2017-11-10,02:59.0
+485,B36,Voltar pra te buscar,2017-11-10,04:29.5
+486,B37,A Felicidade Bate à Sua Porta,2016-08-26,03:08.0
+487,B37,Carinhoso,2016-08-26,03:47.4
+488,B37,Desejo,2016-08-26,03:07.2
+489,B37,Mais do Que Tudo Pop Mix,2016-08-26,02:41.7
+490,B37,Mais do Que Tudo Acústica,2016-08-26,02:32.6
+491,B37,Mais uma Vez,2016-08-26,03:28.8
+492,B37,Maria,2016-08-26,02:41.3
+493,B37,Me Perdoa,2016-08-26,02:54.6
+494,B37,Na Sala de Espera do Paraíso,2016-08-26,03:17.0
+495,B37,O Amor É Quente,2016-08-26,02:59.7
+496,B37,Oh Darling,2016-08-26,03:54.5
+497,B37,Satisfaction,2016-08-26,03:27.4
+498,B37,Vambora,2016-08-26,03:43.3
+499,B37,Você Não Entende Nada,2016-08-26,03:59.5
+500,B37,Você Vem,2016-08-26,02:32.5
+501,B38,Exagerado Ao Vivo,2012-07-10,04:27.0
+502,B38,Você Não Entende Nada Ao Vivo,2012-07-10,04:04.6
+503,B38,Por Que a Gente É Assim Ao Vivo,2012-07-10,04:42.8
+504,B38,Não Vou Ficar Caleidoscópio Réu Confesso Você Ao Vivo,2012-07-10,09:12.8
+505,B38,Segredos Ao Vivo,2012-07-10,04:42.4
+506,B38,Malandragem Ao Vivo,2012-07-10,04:25.2
+507,B38,Amor Pra Recomeçar Ao Vivo,2012-07-10,03:41.5
+508,B38,Por Você Ao Vivo,2012-07-10,03:35.3
+509,B38,Ainda É Cedo Ao Vivo,2012-07-10,04:46.6
+510,B38,Bete Balanço Ao Vivo,2012-07-10,04:02.9
+511,B38,Puro Êxtase Ao Vivo,2012-07-10,04:52.2
+512,B39,Som e fúria,2011-09-21,03:38.3
+513,B39,Quando o amor era medo,2011-09-21,03:44.3
+514,B39,Amor pra recomeçar,2011-09-21,03:34.6
+515,B39,Segredos,2011-09-21,03:53.5
+516,B39,Eu não sei dizer te amo,2011-09-21,04:01.4
+517,B39,Homem não chora,2011-09-21,03:59.5
+518,B39,Mão de obra ilegal,2011-09-21,02:48.2
+519,B39,Ela,2011-09-21,03:15.4
+520,B39,Mais que perfeito,2011-09-21,04:28.5
+521,B39,Você parece com todo mundo,2011-09-21,03:29.0
+522,B39,No escuro e vendo,2011-09-21,02:57.0
+523,B39,Voltar pra te buscar,2011-09-21,04:29.5
+524,B39,Sol de domingo,2011-09-21,04:10.9
+525,B39,Sobre nós dois e o resto do mundo,2011-09-21,03:23.8
+526,B39,Eu preciso te tirar do sério,2011-09-21,03:48.2
+527,B39,O que mais me encanta,2011-09-21,02:57.6
+528,B39,Trapaça da dor,2011-09-21,03:09.3
+529,B39,Seu amorzinho,2011-09-21,03:09.6
+530,B39,50 receitas,2011-09-21,03:40.8
+531,B39,Túnel do tempo,2011-09-21,03:46.8
+532,B39,Desculpas já não peço mais,2011-09-21,03:24.3
+533,B39,3 minutos,2011-09-21,03:49.3
+534,B39,O início depois do fim,2011-09-21,03:21.3
+535,B39,Paz nunca mais,2011-09-21,03:28.7
+536,B39,Eu preciso te tirar do sério Sexy Mix,2011-09-21,03:34.5
+537,B40,Controle remoto,2008-09-02,03:29.8
+538,B40,Nada além,2008-09-02,03:50.5
+539,B40,Tua laçada,2008-09-02,03:12.5
+540,B40,Eu não quero brigar mais,2008-09-02,03:44.6
+541,B40,Intimidade entre estranhos,2008-09-02,03:25.2
+542,B40,O céu não acaba,2008-09-02,03:40.6
+543,B40,Dois lados,2008-09-02,03:04.5
+544,B40,Eu só queria entender,2008-09-02,03:35.1
+545,B40,Fragmento,2008-09-02,03:10.7
+546,B40,Farol,2008-09-02,03:02.8
+547,B40,Tudo de bom,2008-09-02,03:23.5
+548,B41,Sobre nós dois e o resto do mundo,2003-05-09,03:23.8
+549,B41,Eu preciso te tirar do sério,2003-05-09,03:48.2
+550,B41,O que mais me encanta,2003-05-09,02:57.6
+551,B41,Trapaça da dor,2003-05-09,03:09.3
+552,B41,Seu amorzinho,2003-05-09,03:09.6
+553,B41,50 receitas,2003-05-09,03:40.8
+554,B41,Túnel do tempo,2003-05-09,03:46.8
+555,B41,Desculpas já não peço mais,2003-05-09,03:24.3
+556,B41,3 minutos,2003-05-09,03:49.3
+557,B41,O início depois do fim,2003-05-09,03:21.3
+558,B41,Paz nunca mais,2003-05-09,03:28.7
+559,B42,Som e fúria,2001-01-01,03:38.3
+560,B42,Quando o amor era medo,2001-01-01,03:44.3
+561,B42,Amor pra recomeçar,2001-01-01,03:34.6
+562,B42,Segredos,2001-01-01,03:53.5
+563,B42,Eu não sei dizer te amo,2001-01-01,04:01.4
+564,B42,Homem não chora,2001-01-01,03:59.5
+565,B42,Mão de obra ilegal,2001-01-01,02:48.2
+566,B42,Ela,2001-01-01,03:15.4
+567,B42,Mais que perfeito,2001-01-01,04:28.5
+568,B42,Você parece com todo mundo,2001-01-01,03:29.0
+569,B42,No escuro e vendo,2001-01-01,02:57.0
+570,B42,Voltar pra te buscar,2001-01-01,04:29.5
+571,B42,Sol de domingo,2001-01-01,04:10.9
+572,B43,Alô,2019-04-19,05:41.8
+573,B43,De Tanto Amor,2019-04-19,03:31.2
+574,B43,Me Conte a Sua História,2019-04-19,04:08.5
+575,B43,Amada Amante,2019-04-19,04:25.3
+576,B43,Abandono,2019-04-19,02:59.9
+577,B43,Vivendo por Viver,2019-04-19,05:29.7
+578,B43,Nosso Amor,2019-04-19,04:56.8
+579,B43,Todos Estão Surdos,2019-04-19,03:58.9
+580,B43,Nossa Senhora,2019-04-19,03:21.9
+581,B43,Você em Minha Vida,2019-04-19,04:55.2
+582,B43,Procurase,2019-04-19,06:00.7
+583,B43,A Guerra dos Meninos,2019-04-19,06:22.7
+584,B44,Trinca de Ases Ao Vivo,2018-03-09,05:34.1
+585,B44,Dupla de Ás Ao Vivo,2018-03-09,04:39.0
+586,B44,Palco Ao Vivo,2018-03-09,03:43.1
+587,B44,Baby Ao Vivo,2018-03-09,03:59.3
+588,B44,All Star Ao Vivo,2018-03-09,05:00.0
+589,B44,Espatódea Ao Vivo,2018-03-09,04:20.0
+590,B44,O Seu Lado de Cá Ao Vivo,2018-03-09,05:17.0
+591,B44,Esotérico Ao Vivo,2018-03-09,04:50.0
+592,B44,Cores Vivas Ao Vivo,2018-03-09,04:18.0
+593,B44,Água Viva Ao Vivo,2018-03-09,03:08.0
+594,B44,Retiros Espirituais Ao Vivo,2018-03-09,05:16.0
+595,B44,Copo Vazio Ao Vivo,2018-03-09,03:25.0
+596,B44,Meu Amigo Meu Herói Ao Vivo,2018-03-09,04:03.2
+597,B44,Relicário Ao Vivo,2018-03-09,04:59.9
+598,B44,Pérola Negra Ao Vivo,2018-03-09,04:32.1
+599,B44,Refavela Ao Vivo,2018-03-09,03:47.0
+600,B44,Ela Ao Vivo,2018-03-09,03:32.0
+601,B44,Tocarte Ao Vivo,2018-03-09,05:28.8
+602,B44,Dois Rios Ao Vivo,2018-03-09,04:36.2
+603,B44,Nada Mais Lately Ao Vivo,2018-03-09,06:18.0
+604,B44,Por Onde Andei Ao Vivo,2018-03-09,04:42.0
+605,B44,Nos Barracos da Cidade Ao Vivo,2018-03-09,04:35.9
+606,B44,O Segundo Sol Ao Vivo,2018-03-09,03:49.1
+607,B44,A Gente Precisa Ver o Luar Ao Vivo,2018-03-09,05:07.0
+608,B44,Barato Total Ao Vivo,2018-03-09,04:01.8
+609,B45,Infinito Oito Ao Vivo,2017-07-14,04:57.5
+610,B45,Infernal Ao Vivo,2017-07-14,05:18.9
+611,B45,Inimitável Ao Vivo,2017-07-14,03:52.3
+612,B45,Marvin Ao Vivo,2017-07-14,04:48.6
+613,B45,Lobo Preso em Renda Ao Vivo,2017-07-14,04:19.9
+614,B45,Os Cegos do Castelo Ao Vivo,2017-07-14,05:06.3
+615,B45,4 de Março Ao Vivo,2017-07-14,05:02.8
+616,B45,O Meu Posto Ao Vivo,2017-07-14,05:35.2
+617,B45,A Letra A Ao Vivo,2017-07-14,04:01.9
+618,B45,Nos Seus Olhos Ao Vivo,2017-07-14,04:17.4
+619,B45,Só Posso Dizer Ao Vivo,2017-07-14,03:53.7
+620,B45,Quem Vai Dizer Tchau Ao Vivo,2017-07-14,03:29.5
+621,B45,Luz dos Olhos Ao Vivo,2017-07-14,07:37.3
+622,B45,Dois Rios Ao Vivo,2017-07-14,04:21.4
+623,B45,Relicário Ao Vivo,2017-07-14,05:24.7
+624,B45,Pra Você Guardei o Amor Ao Vivo,2017-07-14,04:38.7
+625,B45,All Star Ao Vivo,2017-07-14,05:23.6
+626,B45,N Ao Vivo,2017-07-14,03:36.1
+627,B45,Sou Dela Ao Vivo,2017-07-14,05:04.9
+628,B45,Mantra Ao Vivo,2017-07-14,04:43.7
+629,B45,Sutilmente Ao Vivo,2017-07-14,03:43.5
+630,B45,Por Onde Andei Ao Vivo,2017-07-14,04:30.6
+631,B45,O Segundo Sol Ao Vivo,2017-07-14,04:16.1
+632,B45,O Mundo É Bão Sebastião Ao Vivo,2017-07-14,03:53.6
+633,B45,Do Seu Lado Ao Vivo,2017-07-14,04:21.3
+634,B45,Dessa Vez Soundcheck 12052017,2017-07-14,03:15.3
+635,B46,Infernal Ao Vivo,2017-06-02,05:17.6
+636,B46,Inimitável Ao Vivo,2017-06-02,03:51.8
+637,B46,Marvin Ao Vivo,2017-06-02,04:10.4
+638,B46,Lobo Preso em Renda Ao Vivo,2017-06-02,04:26.2
+639,B46,Os Cegos do Castelo Ao Vivo,2017-06-02,05:04.1
+640,B46,4 de Março Ao Vivo,2017-06-02,05:00.3
+641,B46,O Meu Posto Ao Vivo,2017-06-02,05:41.4
+642,B46,Nos Seus Olhos Ao Vivo,2017-06-02,04:17.2
+643,B46,Quem Vai Dizer Tchau Ao Vivo,2017-06-02,03:26.7
+644,B46,Luz dos Olhos Ao Vivo,2017-06-02,07:34.2
+645,B46,Dois Rios Ao Vivo,2017-06-02,04:21.1
+646,B46,Relicário Ao Vivo,2017-06-02,04:59.9
+647,B46,Pra Você Guardei o Amor Ao Vivo,2017-06-02,04:40.8
+648,B46,All Star Ao Vivo,2017-06-02,05:28.2
+649,B46,N Ao Vivo,2017-06-02,03:35.5
+650,B46,Sou Dela Ao Vivo,2017-06-02,05:03.1
+651,B46,Mantra Ao Vivo,2017-06-02,04:44.5
+652,B46,Por Onde Andei Ao Vivo,2017-06-02,04:42.3
+653,B46,O Segundo Sol Ao Vivo,2017-06-02,04:18.7
+654,B46,Do Seu Lado Ao Vivo,2017-06-02,04:27.3
+655,B47,Infinito Oito Ao Vivo,2017-05-26,04:51.6
+656,B47,Inimitável Ao Vivo,2017-05-26,03:52.5
+657,B47,Marvin Ao Vivo,2017-05-26,03:32.1
+658,B47,Lobo Preso em Renda Ao Vivo,2017-05-26,04:18.3
+659,B47,Nos Seus Olhos Ao Vivo,2017-05-26,04:15.2
+660,B47,Só Posso Dizer Ao Vivo,2017-05-26,03:18.2
+661,B47,Luz dos Olhos Ao Vivo,2017-05-26,07:36.7
+662,B47,Dois Rios Ao Vivo,2017-05-26,04:17.4
+663,B47,Pra Você Guardei o Amor Ao Vivo,2017-05-26,04:35.9
+664,B47,All Star Ao Vivo,2017-05-26,05:12.8
+665,B47,N Ao Vivo,2017-05-26,03:34.5
+666,B47,Mantra Ao Vivo,2017-05-26,04:46.6
+667,B47,Por Onde Andei Ao Vivo,2017-05-26,04:21.3
+668,B47,O Segundo Sol Ao Vivo,2017-05-26,04:10.3
+669,B47,Do Seu Lado Ao Vivo,2017-05-26,04:21.2
+670,B48,Infinito Oito Ao Vivo em Nova Prata,2017-05-16,05:11.3
+671,B48,Inimitável Ao Vivo em Nova Prata,2017-05-16,04:00.5
+672,B48,Marvin Ao Vivo em Nova Prata,2017-05-16,03:27.8
+673,B48,Lobo Preso em Renda Ao Vivo em Nova Prata,2017-05-16,04:21.5
+674,B48,Os Cegos do Castelo Ao Vivo em Nova Prata,2017-05-16,05:03.8
+675,B48,Deus Meu Ao Vivo em Nova Prata,2017-05-16,03:29.4
+676,B48,O Meu Posto Ao Vivo em Nova Prata,2017-05-16,05:41.0
+677,B48,4 de Março Ao Vivo em Nova Prata,2017-05-16,05:12.6
+678,B48,Nos Seus Olhos Ao Vivo em Ijuí,2017-05-16,04:26.2
+679,B48,Só Posso Dizer Ao Vivo em Ijuí,2017-05-16,04:07.8
+680,B48,Luz dos Olhos Ao Vivo em Ijuí,2017-05-16,07:54.5
+681,B48,Dois Rios Ao Vivo em Ijuí,2017-05-16,04:15.5
+682,B48,Relicário Ao Vivo em Ijuí,2017-05-16,05:04.3
+683,B48,Pra Você Guardei o Amor Ao Vivo em Ijuí,2017-05-16,04:43.9
+684,B48,All Star Ao Vivo em Santa Rosa,2017-05-16,05:22.5
+685,B48,Quem Vai Dizer Tchau Ao Vivo em Santa Rosa,2017-05-16,03:37.3
+686,B48,Sutilmente Ao Vivo em Santa Rosa,2017-05-16,04:22.6
+687,B48,Sou Dela Ao Vivo em Santa Rosa,2017-05-16,05:18.8
+688,B48,Por Onde Andei Ao Vivo em Uruguaiana,2017-05-16,04:42.9
+689,B48,Mantra Ao Vivo em Uruguaiana,2017-05-16,06:31.7
+690,B48,O Segundo Sol Ao Vivo em Uruguaiana,2017-05-16,04:07.9
+691,B48,Do Seu Lado Ao Vivo em Uruguaiana,2017-05-16,05:38.2
+692,B49,Infernal Ao Vivo,2017-04-28,05:29.3
+693,B49,Inimitável Ao Vivo,2017-04-28,03:58.7
+694,B49,Marvin Ao Vivo,2017-04-28,03:45.7
+695,B49,Lobo Preso em Renda Ao Vivo,2017-04-28,04:26.4
+696,B49,Os Cegos do Castelo Ao Vivo,2017-04-28,05:04.4
+697,B49,Deus Meu Ao Vivo,2017-04-28,03:34.0
+698,B49,O Meu Posto Ao Vivo,2017-04-28,05:45.3
+699,B49,4 de Março Ao Vivo,2017-04-28,05:13.2
+700,B49,Nos Seus Olhos Ao Vivo,2017-04-28,04:22.2
+701,B49,Só Posso Dizer Ao Vivo,2017-04-28,04:03.2
+702,B49,Concórdia Ao Vivo,2017-04-28,04:43.2
+703,B49,Luz dos Olhos Ao Vivo,2017-04-28,07:33.3
+704,B49,Dois Rios Ao Vivo,2017-04-28,04:10.3
+705,B49,Pra Musa Ao Vivo,2017-04-28,04:39.6
+706,B49,Relicário Ao Vivo,2017-04-28,05:34.2
+707,B49,Pra Você Guardei o Amor Ao Vivo,2017-04-28,04:30.1
+708,B49,All Star Ao Vivo,2017-04-28,05:11.2
+709,B49,Sou Dela Ao Vivo,2017-04-28,05:14.1
+710,B49,Sutilmente Ao Vivo,2017-04-28,03:48.9
+711,B49,Por Onde Andei Ao Vivo,2017-04-28,04:58.2
+712,B49,Mantra Ao Vivo,2017-04-28,06:39.2
+713,B49,O Segundo Sol Ao Vivo,2017-04-28,04:12.2
+714,B49,Do Seu Lado Ao Vivo,2017-04-28,05:02.0
+715,B50,Infernal Ao Vivo,2017-04-21,05:20.8
+716,B50,Inimitável Ao Vivo,2017-04-21,03:55.7
+717,B50,Marvin Ao Vivo,2017-04-21,03:42.4
+718,B50,Os Cegos do Castelo Ao Vivo,2017-04-21,05:00.7
+719,B50,O Meu Posto Ao Vivo,2017-04-21,05:31.9
+720,B50,4 de Março Ao Vivo,2017-04-21,05:13.2
+721,B50,Só Posso Dizer Ao Vivo,2017-04-21,04:04.4
+722,B50,Luz dos Olhos Ao Vivo,2017-04-21,07:23.8
+723,B50,Pra Musa Ao Vivo,2017-04-21,04:35.5
+724,B50,Quem Vai Dizer Tchau Ao Vivo,2017-04-21,03:42.6
+725,B50,Sou Dela Ao Vivo,2017-04-21,05:16.2
+726,B50,Sutilmente Ao Vivo,2017-04-21,03:49.2
+727,B50,Por Onde Andei Ao Vivo,2017-04-21,04:45.8
+728,B50,O Segundo Sol Ao Vivo,2017-04-21,04:15.7
+729,B50,Sua Impossível Chance Passagem de Som Ao Vivo,2017-04-21,03:57.2
+730,B51,Infinito Oito Ao Vivo,2017-04-14,04:59.2
+731,B51,Inimitável Ao Vivo,2017-04-14,03:56.2
+732,B51,Marvin Ao Vivo,2017-04-14,03:38.5
+733,B51,Lobo Preso em Renda Ao Vivo,2017-04-14,04:23.2
+734,B51,Deus Meu Ao Vivo,2017-04-14,03:30.2
+735,B51,O Meu Posto Ao Vivo,2017-04-14,05:41.4
+736,B51,Só Posso Dizer Ao Vivo,2017-04-14,04:04.5
+737,B51,Concórdia Ao Vivo,2017-04-14,04:40.6
+738,B51,Pra Musa Ao Vivo,2017-04-14,04:32.3
+739,B51,Pra Você Guardei o Amor Ao Vivo,2017-04-14,04:58.5
+740,B51,All Star Ao Vivo,2017-04-14,05:19.8
+741,B51,Quem Vai Dizer Tchau Ao Vivo,2017-04-14,03:38.3
+742,B51,Sutilmente Ao Vivo,2017-04-14,03:53.3
+743,B51,Mantra Ao Vivo,2017-04-14,06:41.7
+744,B51,O Segundo Sol Ao Vivo,2017-04-14,04:33.5
+745,B52,Infinito Oito Ao Vivo,2017-04-14,05:07.5
+746,B52,Infernal Ao Vivo,2017-04-14,05:25.5
+747,B52,Os Cegos do Castelo Ao Vivo,2017-04-14,05:15.3
+748,B52,4 de Março Ao Vivo,2017-04-14,05:13.3
+749,B52,Nos Seus Olhos Ao Vivo,2017-04-14,04:19.9
+750,B52,Luz dos Olhos Ao Vivo,2017-04-14,07:23.7
+751,B52,Dois Rios Ao Vivo,2017-04-14,04:16.8
+752,B52,Relicário Ao Vivo,2017-04-14,05:18.9
+753,B52,All Star Ao Vivo,2017-04-14,05:24.3
+754,B52,Quem Vai Dizer Tchau Ao Vivo,2017-04-14,03:32.7
+755,B52,Por Onde Andei Ao Vivo,2017-04-14,04:58.4
+756,B52,Sutilmente Ao Vivo,2017-04-14,04:12.6
+757,B52,Mantra Ao Vivo,2017-04-14,06:24.7
+758,B52,Do Seu Lado Ao Vivo,2017-04-14,04:38.4
+759,B53,Infinito Oito,2016-11-11,04:43.8
+760,B53,Deus Meu,2016-11-11,03:20.7
+761,B53,Inimitável,2016-11-11,03:55.2
+762,B53,4 de Março,2016-11-11,05:36.8
+763,B53,Só Posso Dizer São Paulo,2016-11-11,03:18.8
+764,B53,Concórdia,2016-11-11,04:27.6
+765,B53,Azul de Presunto,2016-11-11,06:16.5
+766,B53,Lobo Preso em Renda,2016-11-11,03:42.8
+767,B53,Pra Onde Foi,2016-11-11,06:39.3
+768,B53,Como Somos,2016-11-11,05:45.9
+769,B53,Água Viva,2016-11-11,03:07.3
+770,B53,Pra Musa,2016-11-11,04:12.9
+771,B53,Só Posso Dizer Seattle,2016-11-11,03:57.9
+772,B54,PréSal,2015-12-18,07:02.9
+773,B54,Sei,2015-12-18,03:18.5
+774,B54,Back in Vânia,2015-12-18,04:34.6
+775,B54,Pra Quem Não Vem,2015-12-18,04:13.6
+776,B54,Declaração de Amor,2015-12-18,04:59.9
+777,B54,Eu a Bispa,2015-12-18,01:40.7
+778,B54,Coração Vago,2015-12-18,06:25.7
+779,B54,PersXPectiva,2015-12-18,04:48.5
+780,B54,Ternura Afeto,2015-12-18,02:36.5
+781,B54,Luz Antiga,2015-12-18,04:09.1
+782,B54,Praça da Árvore,2015-12-18,04:07.3
+783,B54,O Que Eu Só Vejo em Você,2015-12-18,03:30.9
+784,B54,Sem Arrefecer,2015-12-18,02:00.6
+785,B54,Zero Muito,2015-12-18,04:18.4
+786,B54,Lamento Realengo,2015-12-18,04:22.0
+787,B55,As Coisas Tão Mais Lindas Ao Vivo,2015-11-27,03:27.9
+788,B55,Sobre As Coisas Tão Mais Lindas Comentário,2015-11-27,01:17.9
+789,B55,N Ao Vivo,2015-11-27,05:19.4
+790,B55,Sobre N Comentário,2015-11-27,01:19.5
+791,B55,Os Cegos do Castelo Ao Vivo,2015-11-27,05:04.5
+792,B55,Sobre Os Cegos Dos Castelo Comentário,2015-11-27,01:14.4
+793,B55,Lamento Realengo Ao Vivo,2015-11-27,05:28.3
+794,B55,Sobre Lamento Realengo Comentário,2015-11-27,01:09.3
+795,B55,Nos Seus Olhos Ao Vivo,2015-11-27,03:52.6
+796,B55,Sobre Nos Seus Olhos Comentário,2015-11-27,00:52.7
+797,B55,Dentro do Mesmo Time Ao Vivo,2015-11-27,04:23.6
+798,B55,Sobre Dentro do Mesmo Time Comentário,2015-11-27,01:36.7
+799,B55,Luz Dos Olhos Ao Vivo,2015-11-27,06:01.7
+800,B55,Sobre Luz Dos Olhos Comentário,2015-11-27,01:45.6
+801,B55,Diariamente Ao Vivo,2015-11-27,04:57.4
+802,B55,Sobre Diariamente Comentário,2015-11-27,01:37.9
+803,B55,SutilmenteBesta É Tu Incidental Ao Vivo,2015-11-27,04:56.3
+804,B55,Sobre SutilmenteBesta É Tu Comentário,2015-11-27,01:32.9
+805,B55,Relicário Ao Vivo,2015-11-27,05:47.7
+806,B55,Sobre Relicário Comentário,2015-11-27,01:10.2
+807,B55,Sei Ao Vivo,2015-11-27,03:52.5
+808,B55,Sobre Sei Comentário,2015-11-27,01:21.6
+809,B55,All Star Ao Vivo,2015-11-27,03:53.6
+810,B55,Sobre All Star Comentário,2015-11-27,01:34.9
+811,B55,Pra Você Guardei o Amor Ao Vivo,2015-11-27,05:12.7
+812,B55,Sobre Pra Você Guardei o Amor Comentário,2015-11-27,01:33.9
+813,B55,Por Onde Andei Ao Vivo,2015-11-27,04:49.2
+814,B55,Sobre por Onde Andei Comentário,2015-11-27,01:33.5
+815,B56,As Coisas Tão Mais Lindas Ao Vivo,2015-11-27,03:27.9
+816,B56,N Ao Vivo,2015-11-27,05:19.4
+817,B56,Os Cegos do Castelo Ao Vivo,2015-11-27,05:04.5
+818,B56,Lamento Realengo Ao Vivo,2015-11-27,05:28.3
+819,B56,Nos Seus Olhos Ao Vivo,2015-11-27,03:52.6
+820,B56,Dentro do Mesmo Time Ao Vivo,2015-11-27,04:23.6
+821,B56,Luz Dos Olhos Ao Vivo,2015-11-27,06:01.7
+822,B56,Diariamente Ao Vivo,2015-11-27,04:57.4
+823,B56,SutilmenteBesta É Tu Incidental Ao Vivo,2015-11-27,04:56.3
+824,B56,Relicário Ao Vivo,2015-11-27,05:47.7
+825,B56,Sei Ao Vivo,2015-11-27,03:52.5
+826,B56,All Star Ao Vivo,2015-11-27,03:53.6
+827,B56,Pra Você Guardei o Amor Ao Vivo,2015-11-27,05:12.7
+828,B56,Por Onde Andei Ao Vivo,2015-11-27,04:49.2
+829,B57,Sou Dela,2015-10-30,04:59.4
+830,B57,Não Vou Me Adaptar Ao Vivo,2015-10-30,04:09.8
+831,B57,Por Onde Andei Ao Vivo,2015-10-30,03:55.6
+832,B57,Espatódea,2015-10-30,03:46.6
+833,B57,Um Tiro No Coração,2015-10-30,04:00.9
+834,B57,Agora Só Falta Você Ao Vivo Em São Paulo 2010,2015-10-30,02:23.4
+835,B57,A Letra A,2015-10-30,04:14.5
+836,B57,Marvin Patches Ao Vivo,2015-10-30,04:39.1
+837,B57,O Meu Mundo Ficaria Completo Com Você Ao Vivo,2015-10-30,03:57.7
+838,B57,N,2015-10-30,03:34.2
+839,B57,Sim,2015-10-30,03:56.4
+840,B57,Luz Dos Olhos,2015-10-30,05:34.7
+841,B57,Bichos Escrotos Ao Vivo Em São Paulo 2010,2015-10-30,03:05.9
+842,B57,Dres,2015-10-30,04:16.8
+843,B57,O Segundo Sol,2015-10-30,02:58.1
+844,B57,Baby Eu Queria,2015-10-30,02:58.1
+845,B57,Relicário Ao Vivo Em São Paulo 2007,2015-10-30,05:08.2
+846,B57,Frevo Mulher Ao Vivo Em São Paulo 2010,2015-10-30,03:19.5
+847,B57,Pra Ela Voltar,2015-10-30,02:56.8
+848,B57,As Coisas Tão Mais Lindas Ao Vivo Em São Paulo 2007,2015-10-30,03:04.7
+849,B58,PréSal,2013-11-20,07:13.1
+850,B58,Sou Dela,2013-11-20,05:14.5
+851,B58,E Tudo Mais,2013-11-20,04:04.5
+852,B58,Coração Vago,2013-11-20,06:41.3
+853,B58,N,2013-11-20,03:50.3
+854,B58,Sei,2013-11-20,03:31.8
+855,B58,Ali,2013-11-20,04:58.7
+856,B58,De Janeiro a Janeiro,2013-11-20,03:34.7
+857,B58,Hi Dri,2013-11-20,03:42.3
+858,B58,All Star,2013-11-20,04:58.0
+859,B58,Onde Você Mora,2013-11-20,05:24.3
+860,B58,Pra Você Guardei o Amor,2013-11-20,05:09.7
+861,B58,O Segundo Sol,2013-11-20,04:33.1
+862,B58,Marvin Patches,2013-11-20,04:38.4
+863,B59,O segundo sol,2012-04-23,03:59.8
+864,B59,Relicário,2012-04-23,04:06.0
+865,B59,Resposta,2012-04-23,04:09.7
+866,B59,ECT Participação especial de Hebert Vianna e Carlinhos Brown,2012-04-23,03:43.1
+867,B59,All Star,2012-04-23,03:01.8
+868,B59,Cegos do castelo,2012-04-23,04:18.3
+869,B59,My Pledge of Love,2012-04-23,03:16.0
+870,B59,Bom dia,2012-04-23,04:34.6
+871,B59,Meu aniversário,2012-04-23,03:06.7
+872,B59,Onde você mora,2012-04-23,04:23.6
+873,B59,Dessa vez,2012-04-23,03:14.5
+874,B59,Hey Babe Participação especial de Rogério Flausino,2012-04-23,03:50.4
+875,B59,Me diga,2012-04-23,04:15.9
+876,B59,Marvin,2012-04-23,04:39.9
+877,B59,Frases mais azuis,2012-04-23,04:41.4
+878,B59,O vento noturno do verão,2012-04-23,04:22.2
+879,B59,Infernal,2012-04-23,05:21.5
+880,B59,A minha gratidão é uma pessoa,2012-04-23,04:46.5
+881,B59,Sua impossível chance,2012-04-23,04:03.2
+882,B59,Fiz o que pude,2012-04-23,03:20.8
+883,B60,Venus Ao Vivo Em São Paulo 2010,2010-07-10,02:41.5
+884,B60,Agora Só Falta Você Ao Vivo Em São Paulo 2010,2010-07-10,02:23.2
+885,B60,Não Me Deixe Nunca Mais Ao Vivo Em São Paulo 2010,2010-07-10,03:00.6
+886,B60,Whisky A Go Go Ao Vivo Em São Paulo 2010,2010-07-10,03:48.4
+887,B60,Fogo E Paixão My Pledge Of Love Ao Vivo Em São Paulo 2010,2010-07-10,03:58.1
+888,B60,I Can See Clearly Now Ao Vivo Em São Paulo 2010,2010-07-10,03:31.8
+889,B60,Islands In The Stream Ao Vivo Em São Paulo 2010,2010-07-10,03:22.8
+890,B60,Muito Estranho Cuida Bem De Mim Ao Vivo Em São Paulo 2010,2010-07-10,03:31.2
+891,B60,Could You Be Loved Ao Vivo Em São Paulo 2010,2010-07-10,05:29.7
+892,B60,You And I Ao Vivo Em São Paulo 2010,2010-07-10,03:05.7
+893,B60,Chorando Se Foi Ao Vivo Em São Paulo 2010,2010-07-10,04:10.8
+894,B60,Bichos Escrotos Ao Vivo Em São Paulo 2010,2010-07-10,03:08.1
+895,B60,Gostava Tanto De Você Ao Vivo Em São Paulo 2010,2010-07-10,04:08.8
+896,B60,Você Pediu E Eu Já Vou Daqui Ao Vivo Em São Paulo 2010,2010-07-10,04:22.7
+897,B60,Severina Xique Xique Ao Vivo Em São Paulo 2010,2010-07-10,01:19.1
+898,B60,Você Não Vale Nada Ao Vivo Em São Paulo 2010,2010-07-10,03:22.9
+899,B60,Frevo Mulher Ao Vivo Em São Paulo 2010,2010-07-10,03:20.8
+900,B60,Lindo Balão Azul Ao Vivo Em São Paulo 2010,2010-07-10,04:26.7
+901,B60,Do Seu Lado Ao Vivo Em São Paulo 2010,2010-07-10,04:48.9
+902,B61,Hi Dri,2009-01-01,03:45.2
+903,B61,Ainda Não Passou,2009-01-01,03:16.6
+904,B61,Dres,2009-01-01,04:16.6
+905,B61,Conta,2009-01-01,04:42.8
+906,B61,Só Pra So,2009-01-01,03:25.8
+907,B61,Mosaico Abstrato,2009-01-01,04:38.6
+908,B61,Pra Você Guardei O Amor,2009-01-01,05:43.8
+909,B61,Livre Como Um Deus,2009-01-01,05:11.5
+910,B61,Driamante,2009-01-01,02:39.5
+911,B61,Hoje Eu Te Pedi Em Casamento,2009-01-01,03:19.6
+912,B61,Mil Galáxias,2009-01-01,03:32.5
+913,B61,Baby Eu Queria,2009-01-01,02:58.4
+914,B62,Sou Dela Ao Vivo Em São Paulo 2007,2007-01-15,04:34.9
+915,B62,A Letra A Ao Vivo Em São Paulo 2007,2007-01-15,03:55.9
+916,B62,Relicário Ao Vivo Em São Paulo 2007,2007-01-15,05:07.1
+917,B62,A Minha Gratidão É Uma Pessoa Ao Vivo Em São Paulo 2007,2007-01-15,04:18.9
+918,B62,As Coisas Tão Mais Lindas Ao Vivo Em São Paulo 2007,2007-01-15,03:04.6
+919,B62,Luz Dos Olhos Ao Vivo Em São Paulo 2007,2007-01-15,05:06.8
+920,B62,N Ao Vivo Em São Paulo 2007,2007-01-15,03:27.3
+921,B62,Espatódea Ao Vivo Em São Paulo 2007,2007-01-15,03:56.1
+922,B62,A Fila Ao Vivo Em São Paulo 2007,2007-01-15,03:35.3
+923,B62,Negra Livre Ao Vivo Em São Paulo 2007,2007-01-15,04:02.8
+924,B62,Bom Dia Ao Vivo Em São Paulo 2007,2007-01-15,03:35.1
+925,B62,Quem Vai Dizer Tchau Ao Vivo Em São Paulo 2007,2007-01-15,03:00.0
+926,B62,Tentei Fugir Ao Vivo Em São Paulo 2007,2007-01-15,04:04.4
+927,B62,Sua Impossível Chance Ao Vivo Em São Paulo 2007,2007-01-15,02:13.7
+928,B62,Monóico Ao Vivo Em São Paulo 2007,2007-01-15,03:50.8
+929,B62,Eu E A Felicidade Ao Vivo Em São Paulo 2007,2007-01-15,03:13.4
+930,B62,Resposta Ao Vivo Em São Paulo 2007,2007-01-15,03:36.8
+931,B62,Por Onde Andei Ao Vivo Em São Paulo 2007,2007-01-15,03:59.5
+932,B63,A Letra A,2007-01-08,04:15.1
+933,B63,Mantra,2007-01-08,05:49.4
+934,B63,Luz Dos Olhos,2007-01-08,05:34.5
+935,B63,Tentei Fugir Ao Vivo Em São Paulo 2007,2007-01-08,04:04.4
+936,B63,N,2007-01-08,03:33.9
+937,B63,Dentro Do Mesmo Time,2007-01-08,06:07.3
+938,B63,Sou Dela,2007-01-08,04:58.9
+939,B63,Monóico,2007-01-08,04:19.5
+940,B63,De Mãos Dadas,2007-01-08,02:45.5
+941,B63,Espatódea,2007-01-08,03:46.3
+942,B63,Relicário,2007-01-08,03:43.0
+943,B63,Do Seu Lado Ao Vivo,2007-01-08,04:53.4
+944,B63,Por Onde Andei Ao Vivo,2007-01-08,04:10.4
+945,B63,Os Cegos Do Castelo Ao Vivo,2007-01-08,05:58.9
+946,B63,Resposta Ao Vivo Em São Paulo 2007,2007-01-08,03:35.3
+947,B63,Marvin Patches Ao Vivo,2007-01-08,04:39.4
+948,B63,As Coisas Tão Mais Lindas Ao Vivo Em São Paulo 2007,2007-01-08,03:02.5
+949,B63,O Meu Mundo Ficaria Completo Com Você Ao Vivo,2007-01-08,03:57.7
+950,B63,O Segundo Sol Ao Vivo,2007-01-08,05:06.9
+951,B63,Bom Dia Ao Vivo Em São Paulo 2007,2007-01-08,03:31.4
+952,B63,No Recreio Ao Vivo,2007-01-08,03:49.7
+953,B63,Quem Vai Dizer Tchau Ao Vivo Em São Paulo 2007,2007-01-08,02:55.9
+954,B63,Não Vou Me Adaptar Ao Vivo,2007-01-08,04:11.8
+955,B63,A Fila Ao Vivo Em São Paulo 2007,2007-01-08,03:33.2
+956,B63,Você Pediu E Eu Já Vou Daqui Ao Vivo No Rio De Janeiro 2005,2007-01-08,05:24.4
+957,B64,Sim,2006-01-01,03:56.2
+958,B64,Sou Dela,2006-01-01,04:59.1
+959,B64,N,2006-01-01,03:33.9
+960,B64,Monóico,2006-01-01,04:19.2
+961,B64,Nos Seus Olhos,2006-01-01,03:44.9
+962,B64,Santa Maria,2006-01-01,03:22.4
+963,B64,Espatódea,2006-01-01,03:46.4
+964,B64,Para Luzir O Dia,2006-01-01,03:38.2
+965,B64,Como Se O Mar,2006-01-01,04:08.7
+966,B64,Pra Ela Voltar,2006-01-01,02:56.5
+967,B64,Caneco 70,2006-01-01,06:33.4
+968,B64,Ti Amo,2006-01-01,09:19.1
+969,B65,Abertura O Mundo É Bão Sebastião Ao Vivo,2004-06-16,00:20.3
+970,B65,O Mundo É Bão Sebastião Ao Vivo,2004-06-16,04:18.3
+971,B65,A Letra A Ao Vivo,2004-06-16,04:04.3
+972,B65,O Segundo Sol Ao Vivo,2004-06-16,05:13.4
+973,B65,Mantra Ao Vivo,2004-06-16,05:52.8
+974,B65,Luz Dos Olhos Ao Vivo,2004-06-16,06:54.1
+975,B65,Por Onde Andei Ao Vivo,2004-06-16,04:11.9
+976,B65,Marvin Patches Ao Vivo,2004-06-16,04:41.3
+977,B65,No Recreio Ao Vivo,2004-06-16,03:58.5
+978,B65,Quase Que Dezoito Ao Vivo,2004-06-16,04:25.7
+979,B65,Não Vou Me Adaptar Ao Vivo,2004-06-16,04:10.9
+980,B65,All Star Ao Vivo,2004-06-16,04:02.1
+981,B65,Meu Aniversário Ao Vivo,2004-06-16,00:44.9
+982,B65,Relicário Ao Vivo,2004-06-16,04:25.6
+983,B65,Os Cegos Do Castelo Ao Vivo,2004-06-16,06:00.7
+984,B65,Pomar Ao Vivo,2004-06-16,05:15.0
+985,B65,Do Seu Lado Ao Vivo,2004-06-16,05:03.1
+986,B65,Mantra,2004-06-16,04:24.3
+987,B66,A Letra A,2003-01-01,04:14.7
+988,B66,E Tudo Mais,2003-01-01,05:18.9
+989,B66,Dentro Do Mesmo Time,2003-01-01,06:07.5
+990,B66,Hoje Mesmo,2003-01-01,06:06.3
+991,B66,De Lhe Pra Te,2003-01-01,04:41.9
+992,B66,Meu Posto,2003-01-01,05:17.2
+993,B66,De Mãos Dadas,2003-01-01,02:46.4
+994,B66,Mesmo Sozinho,2003-01-01,04:44.5
+995,B66,Púrpura,2003-01-01,05:09.4
+996,B66,Luz Dos Olhos,2003-01-01,05:34.0
+997,B66,Um Simples Abraço,2003-01-01,04:30.6
+998,B66,Tão Diferente,2003-01-01,06:10.7
+999,B67,Infernal,2002-02-01,05:21.5
+1000,B67,ECT,2002-02-01,05:07.1
